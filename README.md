@@ -19,7 +19,7 @@ ALUFree Media is a revolutionary social platform designed exclusively for studen
 <div align="center">
   <img src="https://raw.githubusercontent.com/yourusername/ALUFreeMedia/main/screenshots/app-mockup.png" width="800" alt="ALUFree Media App Mockup">
   
-  ### [🎥 Watch Full Demo Video](https://youtube.com/alufree-media-demo)
+  ### [🎥 Watch Full Demo Video](https://drive.google.com/file/d/1NX8opL7D27PsNzm-WT7Ewrad3xtETGWU/view?usp=sharing)
 </div>
 
 ## 📋 Table of Contents
@@ -155,5 +155,5 @@ Distributed under the **MIT License**.
 <div align="center">
   **Crafted with ❤️ by Student Developers**
   
-  [GitHub Repository](https://github.com/yourusername/ALUFreeMedia)
+  [GitHub Repository](https://github.com/Ngum12/Individual-Assignment-02?tab=readme-ov-file)
 </div>
